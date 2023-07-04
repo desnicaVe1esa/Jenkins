@@ -1,1 +1,1 @@
-# jenkins-course-example
+### Шпора по Jenkins.
